@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(23, 23, 49);
+    margin: 15rem;
+}
+
+main{
+    display: flex;
+    gap: 2rem;
+}
+
+main img{
+   width: 50vh;
+   height: 50vh;
+   border-radius: 1rem;
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+}
+
+.insights {
+    color: hsl(277, 64%, 61%);
+}
+
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+
+}
+
+.card{
+    display: flex;
+    margin-top: 4rem;
+    color: white;
+
+    font-weight: bolder;
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+  
+    gap:8rem;
+}
+
+.c{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: x-small; 
+}
+
+.attribution {
+     font-size: 11px; 
+     text-align: center; 
+     margin-top: 5rem;
+     color: grey;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
