@@ -9,14 +9,14 @@ main{
 }
 
 main img{
-   width: 50vh;
+   width: 60vh;
    height: 50vh;
    border-radius: 1rem;
 }
 
 h1{
     color: hsl(0, 0%, 100%);
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 700;
     font-family: "Inter", sans-serif;
 }
@@ -27,7 +27,7 @@ h1{
 
 p{
     color: hsla(0, 0%, 100%, 0.75);
-    font-size: 22px;
+    font-size: 16px;
     font-weight: 400;
     font-family: "Inter", sans-serif;
 
@@ -39,10 +39,10 @@ p{
     color: white;
 
     font-weight: bolder;
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Inter", sans-serif;
   
-    gap:8rem;
+    gap:5rem;
 }
 
 .c{
