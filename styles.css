@@ -8,12 +8,6 @@ main{
     gap: 2rem;
 }
 
-main img{
-   width: 60vh;
-   height: 50vh;
-   border-radius: 1rem;
-}
-
 h1{
     color: hsl(0, 0%, 100%);
     font-size: 40px;
@@ -30,7 +24,6 @@ p{
     font-size: 16px;
     font-weight: 400;
     font-family: "Inter", sans-serif;
-
 }
 
 .card{
@@ -48,6 +41,16 @@ p{
 .c{
     color: hsla(0, 0%, 100%, 0.75);
     font-size: x-small; 
+}
+
+img{
+    width: 60vh;
+    height: 50vh;
+    border-radius: 1rem;
+    opacity: 0.5;
+}
+.staff{
+   background-color: purple; 
 }
 
 .attribution {
